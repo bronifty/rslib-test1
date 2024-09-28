@@ -1,5 +1,9 @@
 # Rslib Project
 
+```sh
+npm create rslib@latest
+```
+
 ## Setup
 
 Install the dependencies:
